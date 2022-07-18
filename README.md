@@ -1,4 +1,4 @@
-<h1>Open-Faction-Tournaments</h1>
+<h1>Destiny Of The Universe Open-Faction Tournaments</h1>
 
 <p>There are 3 types of Open Faction Tournaments where we have Faction v's Faction Battles. These Battles include;
 <ol>
